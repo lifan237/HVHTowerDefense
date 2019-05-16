@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>Tile.png</file>
+        <file>Map.png</file>
+        <file>Select.png</file>
+        <file>Heros.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>Song1.mp3</file>
+    </qresource>
+</RCC>
